@@ -1,0 +1,226 @@
+@font-face {
+  font-family: "Lemon Milk";
+  src: url("../fonts/LEMONMILK-Regular.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Lemon Milk";
+  font-weight: bold;
+  src: url("../fonts/LEMONMILK-Bold.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Lemon Milk";
+  font-weight: lighter;
+  src: url("../fonts/LEMONMILK-Light.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Lemon Milk";
+  font-weight: normal;
+  src: url("../fonts/LEMONMILK-Medium.otf") format("opentype");
+}
+
+body {
+  font-size: 20pt;
+}
+
+.timer {
+  font-family: "Inter", monospace;
+  font-size: 128pt;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.navbar {
+  border-radius: 0 0 4px 4px;
+}
+
+.navbar-brand {
+  font-family: "Lemon Milk", sans-serif;
+  font-size: 48pt;
+  font-weight: lighter;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  line-height: 1;
+}
+
+.app-name {
+  color: #2a85ff;
+}
+
+/* Theme overrides */
+
+.time-slots {
+  z-index: 15;
+  text-align: center;
+  list-style: none;
+}
+
+.time-slots > .slot {
+  display: inline-block;
+  width: 40px;
+  height: 30px;
+  border-radius: 8px;
+  margin-left: 20px;
+  text-indent: -999px;
+  background-color: #98c39c;
+}
+
+.time-slots > .slot:first-child {
+  margin-left: 0px;
+}
+
+.time-slots > .slot.active {
+  background-color: #48894f;
+}
+
+.color-play {
+  color: #ffdf6b;
+}
+
+.color-stop {
+  color: #ff5555;
+}
+
+.color-plus {
+  color: #0ff;
+}
+
+.main {
+  overflow: hidden;
+  background-color: #111315;
+  min-height: 100vh;
+}
+
+.timer-input {
+  width: 100%;
+  color: #fff;
+}
+
+.timer-input th {
+  font-weight: lighter;
+}
+
+.timer-input td {
+  text-align: center;
+}
+
+.timer-input th {
+  text-align: start;
+}
+
+.timer-input tr {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.timer-input tr td > * {
+  margin-bottom: 10px;
+}
+
+.timer-input td,
+.timer-input th {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.form-control {
+  font-size: 20pt;
+  color: white !important;
+  background-color: transparent;
+  border-radius: 10px;
+  border-color: rgba(42, 133, 255, 0.5);
+}
+
+.form-control:disabled,
+.form-control[readonly] {
+  background-color: transparent;
+  opacity: 1;
+}
+
+#time-left,
+#name {
+  color: #fff;
+  font-size: 200pt;
+}
+
+#next-btn,
+#prev-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 60px;
+  height: 60px;
+  color: #999;
+  border-radius: 50%;
+}
+
+.timer-player {
+  font-size: 36pt;
+  line-height: 1;
+  font-family: "Inter";
+}
+
+.timer-player .btn-action {
+  color: #fff !important;
+}
+
+#timer-plus,
+#start-btn {
+  font-size: 36pt;
+  line-height: 1;
+  background-color: #2a85ff;
+  border-radius: 6px;
+}
+
+.form-inline > * {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.form-control:focus {
+  background-color: transparent;
+}
+
+.form-select {
+  text-transform: capitalize;
+}
+
+select option {
+  background: #000;
+}
+
+.text-white {
+  color: #fff;
+}
+
+.text-center {
+  align-items: center;
+}
+
+.leading-normal {
+  line-height: 1;
+}
+
+.text-34 {
+  font-size: 34px;
+}
+
+.time-input-col {
+  max-width: 30px;
+}
+
+#gif-img-cover {
+  width: 100%;
+  height: 480px;
+  overflow: hidden;
+}
+
+.text-34 {
+  font-size: 48pt !important;
+}
+
+.main-alert {
+  background-color: #9B0000 !important;
+}

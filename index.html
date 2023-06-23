@@ -1,0 +1,1031 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="keywords" content="timer,clock" />
+    <meta
+      name="description"
+      content="Vanilla Timer - Simple timer with customizable time series."
+    />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Vanilla Timer</title>
+    <link
+      href="https://fonts.googleapis.com/css?family=Inter&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+      integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="./assets/css/default.css" />
+    <link
+      rel="stylesheet"
+      href="./assets/fontawesome/css/fontawesome.min.css"
+    />
+    <link rel="stylesheet" href="./assets/fontawesome/css/solid.min.css" />
+  </head>
+
+  <body>
+    <main id="main" class="main">
+      <nav class="px-5 navbar navbar-expand-lg navbar-dark bg-dark">
+        <span class="navbar-brand" href="#">
+          <span class="app-name">Team</span>Leaderboard</span
+        >
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto"></ul>
+          <form class="form-inline my-2 my-lg-0 timer-player">
+            <div>
+              <button id="start-btn" class="btn btn-action mx-3">Start</button>
+            </div>
+            <button class="btn-navigation" id="prev-btn" disabled>
+              <i class="fas fa-angle-left"></i>
+            </button>
+            <button
+              class="btn btn-link btn-action"
+              disabled
+              id="timer-plus"
+              role="plusTimer"
+            >
+              :30
+            </button>
+            <button class="btn-navigation" id="next-btn" disabled>
+              <i class="fas fa-angle-right"></i>
+            </button>
+          </form>
+        </div>
+      </nav>
+      <div class="row px-5">
+        <div class="col-6">
+          <div class="d-flex flex-column flex-1">
+            <div class="py-5">
+              <div class="text-white text-center text-34">
+                <span id="current">0</span> of <span id="total">0</span>
+              </div>
+              <div class="timer">
+                <div id="time-left" class="leading-normal">00:00</div>
+              </div>
+              <div class="row justify-content-center">
+                <p id="name" style="font-size: 48pt">Training</p>
+              </div>
+            </div>
+            <div style="max-height: 50%">
+              <div id="gif-img-cover" class="d-flex justify-content-center">
+                <img id="gif-img" src="./assets/images/no-gifs.jpg" />
+              </div>
+              <div class="mx-3" style="color: white">
+                <p>Up Next:&nbsp;<span id="up-next"></span></p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-6">
+          <table class="timer-input">
+            <thead>
+              <tr>
+                <th></th>
+                <th>Name</th>
+                <th>Minutes</th>
+                <th>GIF</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>
+                  <span>1</span>
+                </td>
+                <td class="name-input-col">
+                  <input
+                    type="text"
+                    class="form-control name-input"
+                    data-num="1"
+                    id="customName1"
+                  />
+                </td>
+                <td class="time-input-col">
+                  <input
+                    type="number"
+                    class="form-control time-input"
+                    data-num="1"
+                    max="120"
+                    min="1"
+                    id="customTime1"
+                  />
+                </td>
+                <td class="gifs-input-col">
+                  <select
+                    class="form-control form-select gifs-selector"
+                    aria-label="GIF selector"
+                    data-num="1"
+                    id="customGIF1"
+                  >
+                    <option selected value="-1">Select GIF</option>
+                  </select>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <span>2</span>
+                </td>
+                <td class="name-input-col">
+                  <input
+                    type="text"
+                    class="form-control name-input"
+                    data-num="2"
+                    id="customName2"
+                    disabled
+                  />
+                </td>
+                <td class="time-input-col">
+                  <input
+                    type="number"
+                    class="form-control time-input"
+                    data-num="2"
+                    max="120"
+                    min="1"
+                    id="customTime2"
+                    disabled
+                  />
+                </td>
+                <td class="gifs-input-col">
+                  <select
+                    class="form-control form-select gifs-selector"
+                    aria-label="GIF selector"
+                    data-num="2"
+                    id="customGIF2"
+                    disabled
+                  >
+                    <option selected value="-1">Select GIF</option>
+                  </select>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <span>3</span>
+                </td>
+                <td class="name-input-col">
+                  <input
+                    type="text"
+                    class="form-control name-input"
+                    data-num="3"
+                    id="customName3"
+                    disabled
+                  />
+                </td>
+                <td class="time-input-col">
+                  <input
+                    type="number"
+                    class="form-control time-input"
+                    data-num="3"
+                    max="120"
+                    min="1"
+                    id="customTime3"
+                    disabled
+                  />
+                </td>
+                <td class="gifs-input-col">
+                  <select
+                    class="form-control form-select gifs-selector"
+                    aria-label="GIF selector"
+                    data-num="3"
+                    id="customGIF3"
+                    disabled
+                  >
+                    <option selected value="-1">Select GIF</option>
+                  </select>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <span>4</span>
+                </td>
+                <td class="name-input-col">
+                  <input
+                    type="text"
+                    class="form-control name-input"
+                    data-num="4"
+                    id="customName4"
+                    disabled
+                  />
+                </td>
+                <td class="time-input-col">
+                  <input
+                    type="number"
+                    class="form-control time-input"
+                    data-num="4"
+                    max="120"
+                    min="1"
+                    id="customTime4"
+                    disabled
+                  />
+                </td>
+                <td class="gifs-input-col">
+                  <select
+                    class="form-control form-select gifs-selector"
+                    aria-label="GIF selector"
+                    data-num="4"
+                    id="customGIF4"
+                    disabled
+                  >
+                    <option selected value="-1">Select GIF</option>
+                  </select>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <span>5</span>
+                </td>
+                <td class="name-input-col">
+                  <input
+                    type="text"
+                    class="form-control name-input"
+                    data-num="5"
+                    id="customName5"
+                    disabled
+                  />
+                </td>
+                <td class="time-input-col">
+                  <input
+                    type="number"
+                    class="form-control time-input"
+                    data-num="5"
+                    max="120"
+                    min="1"
+                    id="customTime5"
+                    disabled
+                  />
+                </td>
+                <td class="gifs-input-col">
+                  <select
+                    class="form-control form-select gifs-selector"
+                    aria-label="GIF selector"
+                    data-num="5"
+                    id="customGIF5"
+                    disabled
+                  >
+                    <option selected value="-1">Select GIF</option>
+                  </select>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <span>6</span>
+                </td>
+                <td class="name-input-col">
+                  <input
+                    type="text"
+                    class="form-control name-input"
+                    data-num="6"
+                    id="customName6"
+                    disabled
+                  />
+                </td>
+                <td class="time-input-col">
+                  <input
+                    type="number"
+                    class="form-control time-input"
+                    data-num="6"
+                    max="120"
+                    min="1"
+                    id="customTime6"
+                    disabled
+                  />
+                </td>
+                <td class="gifs-input-col">
+                  <select
+                    class="form-control form-select gifs-selector"
+                    aria-label="GIF selector"
+                    data-num="6"
+                    id="customGIF6"
+                    disabled
+                  >
+                    <option selected value="-1">Select GIF</option>
+                  </select>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <span>7</span>
+                </td>
+                <td class="name-input-col">
+                  <input
+                    type="text"
+                    class="form-control name-input"
+                    data-num="7"
+                    id="customName7"
+                    disabled
+                  />
+                </td>
+                <td class="time-input-col">
+                  <input
+                    type="number"
+                    class="form-control time-input"
+                    data-num="7"
+                    max="120"
+                    min="1"
+                    id="customTime7"
+                    disabled
+                  />
+                </td>
+                <td class="gifs-input-col">
+                  <select
+                    class="form-control form-select gifs-selector"
+                    aria-label="GIF selector"
+                    data-num="7"
+                    id="customGIF7"
+                    disabled
+                  >
+                    <option selected value="-1">Select GIF</option>
+                  </select>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <span>8</span>
+                </td>
+                <td class="name-input-col">
+                  <input
+                    type="text"
+                    class="form-control name-input"
+                    data-num="8"
+                    id="customName8"
+                    disabled
+                  />
+                </td>
+                <td class="time-input-col">
+                  <input
+                    type="number"
+                    class="form-control time-input"
+                    data-num="8"
+                    max="120"
+                    min="1"
+                    id="customTime8"
+                    disabled
+                  />
+                </td>
+                <td class="gifs-input-col">
+                  <select
+                    class="form-control form-select gifs-selector"
+                    aria-label="GIF selector"
+                    data-num="8"
+                    id="customGIF8"
+                    disabled
+                  >
+                    <option selected value="-1">Select GIF</option>
+                  </select>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <span>9</span>
+                </td>
+                <td class="name-input-col">
+                  <input
+                    type="text"
+                    class="form-control name-input"
+                    data-num="9"
+                    id="customName9"
+                    disabled
+                  />
+                </td>
+                <td class="time-input-col">
+                  <input
+                    type="number"
+                    class="form-control time-input"
+                    data-num="9"
+                    max="120"
+                    min="1"
+                    id="customTime9"
+                    disabled
+                  />
+                </td>
+                <td class="gifs-input-col">
+                  <select
+                    class="form-control form-select gifs-selector"
+                    aria-label="GIF selector"
+                    data-num="9"
+                    id="customGIF9"
+                    disabled
+                  >
+                    <option selected value="-1">Select GIF</option>
+                  </select>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <span>10</span>
+                </td>
+                <td class="name-input-col">
+                  <input
+                    type="text"
+                    class="form-control name-input"
+                    data-num="10"
+                    id="customName10"
+                    disabled
+                  />
+                </td>
+                <td class="time-input-col">
+                  <input
+                    type="number"
+                    class="form-control time-input"
+                    data-num="10"
+                    max="120"
+                    min="1"
+                    id="customTime10"
+                    disabled
+                  />
+                </td>
+                <td class="gifs-input-col">
+                  <select
+                    class="form-control form-select gifs-selector"
+                    aria-label="GIF selector"
+                    data-num="10"
+                    id="customGIF10"
+                    disabled
+                  >
+                    <option selected value="-1">Select GIF</option>
+                  </select>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <span>11</span>
+                </td>
+                <td class="name-input-col">
+                  <input
+                    type="text"
+                    class="form-control name-input"
+                    data-num="11"
+                    id="customName11"
+                    disabled
+                  />
+                </td>
+                <td class="time-input-col">
+                  <input
+                    type="number"
+                    class="form-control time-input"
+                    data-num="11"
+                    max="120"
+                    min="1"
+                    id="customTime11"
+                    disabled
+                  />
+                </td>
+                <td class="gifs-input-col">
+                  <select
+                    class="form-control form-select gifs-selector"
+                    aria-label="GIF selector"
+                    data-num="11"
+                    id="customGIF11"
+                    disabled
+                  >
+                    <option selected value="-1">Select GIF</option>
+                  </select>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <span>12</span>
+                </td>
+                <td class="name-input-col">
+                  <input
+                    type="text"
+                    class="form-control name-input"
+                    data-num="12"
+                    id="customName12"
+                    disabled
+                  />
+                </td>
+                <td class="time-input-col">
+                  <input
+                    type="number"
+                    class="form-control time-input"
+                    data-num="12"
+                    max="120"
+                    min="1"
+                    id="customTime12"
+                    disabled
+                  />
+                </td>
+                <td class="gifs-input-col">
+                  <select
+                    class="form-control form-select gifs-selector"
+                    aria-label="GIF selector"
+                    data-num="12"
+                    id="customGIF12"
+                    disabled
+                  >
+                    <option selected value="-1">Select GIF</option>
+                  </select>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <span>13</span>
+                </td>
+                <td class="name-input-col">
+                  <input
+                    type="text"
+                    class="form-control name-input"
+                    data-num="13"
+                    id="customName13"
+                    disabled
+                  />
+                </td>
+                <td class="time-input-col">
+                  <input
+                    type="number"
+                    class="form-control time-input"
+                    data-num="13"
+                    max="120"
+                    min="1"
+                    id="customTime13"
+                    disabled
+                  />
+                </td>
+                <td class="gifs-input-col">
+                  <select
+                    class="form-control form-select gifs-selector"
+                    aria-label="GIF selector"
+                    data-num="13"
+                    id="customGIF13"
+                    disabled
+                  >
+                    <option selected value="-1">Select GIF</option>
+                  </select>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <span>14</span>
+                </td>
+                <td class="name-input-col">
+                  <input
+                    type="text"
+                    class="form-control name-input"
+                    data-num="14"
+                    id="customName14"
+                    disabled
+                  />
+                </td>
+                <td class="time-input-col">
+                  <input
+                    type="number"
+                    class="form-control time-input"
+                    data-num="14"
+                    max="120"
+                    min="1"
+                    id="customTime14"
+                    disabled
+                  />
+                </td>
+                <td class="gifs-input-col">
+                  <select
+                    class="form-control form-select gifs-selector"
+                    aria-label="GIF selector"
+                    data-num="14"
+                    id="customGIF14"
+                    disabled
+                  >
+                    <option selected value="-1">Select GIF</option>
+                  </select>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <span>15</span>
+                </td>
+                <td class="name-input-col">
+                  <input
+                    type="text"
+                    class="form-control name-input"
+                    data-num="15"
+                    id="customName15"
+                    disabled
+                  />
+                </td>
+                <td class="time-input-col">
+                  <input
+                    type="number"
+                    class="form-control time-input"
+                    data-num="15"
+                    max="120"
+                    min="1"
+                    id="customTime15"
+                    disabled
+                  />
+                </td>
+                <td class="gifs-input-col">
+                  <select
+                    class="form-control form-select gifs-selector"
+                    aria-label="GIF selector"
+                    data-num="15"
+                    id="customGIF15"
+                    disabled
+                  >
+                    <option selected value="-1">Select GIF</option>
+                  </select>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <span>16</span>
+                </td>
+                <td class="name-input-col">
+                  <input
+                    type="text"
+                    class="form-control name-input"
+                    data-num="16"
+                    id="customName16"
+                    disabled
+                  />
+                </td>
+                <td class="time-input-col">
+                  <input
+                    type="number"
+                    class="form-control time-input"
+                    data-num="16"
+                    max="120"
+                    min="1"
+                    id="customTime16"
+                    disabled
+                  />
+                </td>
+                <td class="gifs-input-col">
+                  <select
+                    class="form-control form-select gifs-selector"
+                    aria-label="GIF selector"
+                    data-num="16"
+                    id="customGIF16"
+                    disabled
+                  >
+                    <option selected value="-1">Select GIF</option>
+                  </select>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <span>17</span>
+                </td>
+                <td class="name-input-col">
+                  <input
+                    type="text"
+                    class="form-control name-input"
+                    data-num="17"
+                    id="customName17"
+                    disabled
+                  />
+                </td>
+                <td class="time-input-col">
+                  <input
+                    type="number"
+                    class="form-control time-input"
+                    data-num="17"
+                    max="120"
+                    min="1"
+                    id="customTime17"
+                    disabled
+                  />
+                </td>
+                <td class="gifs-input-col">
+                  <select
+                    class="form-control form-select gifs-selector"
+                    aria-label="GIF selector"
+                    data-num="17"
+                    id="customGIF17"
+                    disabled
+                  >
+                    <option selected value="-1">Select GIF</option>
+                  </select>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <span>18</span>
+                </td>
+                <td class="name-input-col">
+                  <input
+                    type="text"
+                    class="form-control name-input"
+                    data-num="18"
+                    id="customName18"
+                    disabled
+                  />
+                </td>
+                <td class="time-input-col">
+                  <input
+                    type="number"
+                    class="form-control time-input"
+                    data-num="18"
+                    max="120"
+                    min="1"
+                    id="customTime18"
+                    disabled
+                  />
+                </td>
+                <td class="gifs-input-col">
+                  <select
+                    class="form-control form-select gifs-selector"
+                    aria-label="GIF selector"
+                    data-num="18"
+                    id="customGIF18"
+                    disabled
+                  >
+                    <option selected value="-1">Select GIF</option>
+                  </select>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <span>19</span>
+                </td>
+                <td class="name-input-col">
+                  <input
+                    type="text"
+                    class="form-control name-input"
+                    data-num="19"
+                    id="customName19"
+                    disabled
+                  />
+                </td>
+                <td class="time-input-col">
+                  <input
+                    type="number"
+                    class="form-control time-input"
+                    data-num="19"
+                    max="120"
+                    min="1"
+                    id="customTime19"
+                    disabled
+                  />
+                </td>
+                <td class="gifs-input-col">
+                  <select
+                    class="form-control form-select gifs-selector"
+                    aria-label="GIF selector"
+                    data-num="19"
+                    id="customGIF19"
+                    disabled
+                  >
+                    <option selected value="-1">Select GIF</option>
+                  </select>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <span>20</span>
+                </td>
+                <td class="name-input-col">
+                  <input
+                    type="text"
+                    class="form-control name-input"
+                    data-num="20"
+                    id="customName20"
+                    disabled
+                  />
+                </td>
+                <td class="time-input-col">
+                  <input
+                    type="number"
+                    class="form-control time-input"
+                    data-num="20"
+                    max="120"
+                    min="1"
+                    id="customTime20"
+                    disabled
+                  />
+                </td>
+                <td class="gifs-input-col">
+                  <select
+                    class="form-control form-select gifs-selector"
+                    aria-label="GIF selector"
+                    data-num="20"
+                    id="customGIF20"
+                    disabled
+                  >
+                    <option selected value="-1">Select GIF</option>
+                  </select>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <span>21</span>
+                </td>
+                <td class="name-input-col">
+                  <input
+                    type="text"
+                    class="form-control name-input"
+                    data-num="21"
+                    id="customName21"
+                    disabled
+                  />
+                </td>
+                <td class="time-input-col">
+                  <input
+                    type="number"
+                    class="form-control time-input"
+                    data-num="21"
+                    max="120"
+                    min="1"
+                    id="customTime21"
+                    disabled
+                  />
+                </td>
+                <td class="gifs-input-col">
+                  <select
+                    class="form-control form-select gifs-selector"
+                    aria-label="GIF selector"
+                    data-num="21"
+                    id="customGIF21"
+                    disabled
+                  >
+                    <option selected value="-1">Select GIF</option>
+                  </select>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <span>22</span>
+                </td>
+                <td class="name-input-col">
+                  <input
+                    type="text"
+                    class="form-control name-input"
+                    data-num="22"
+                    id="customName22"
+                    disabled
+                  />
+                </td>
+                <td class="time-input-col">
+                  <input
+                    type="number"
+                    class="form-control time-input"
+                    data-num="22"
+                    max="120"
+                    min="1"
+                    id="customTime22"
+                    disabled
+                  />
+                </td>
+                <td class="gifs-input-col">
+                  <select
+                    class="form-control form-select gifs-selector"
+                    aria-label="GIF selector"
+                    data-num="22"
+                    id="customGIF22"
+                    disabled
+                  >
+                    <option selected value="-1">Select GIF</option>
+                  </select>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <span>23</span>
+                </td>
+                <td class="name-input-col">
+                  <input
+                    type="text"
+                    class="form-control name-input"
+                    data-num="23"
+                    id="customName23"
+                    disabled
+                  />
+                </td>
+                <td class="time-input-col">
+                  <input
+                    type="number"
+                    class="form-control time-input"
+                    data-num="23"
+                    max="120"
+                    min="1"
+                    id="customTime23"
+                    disabled
+                  />
+                </td>
+                <td class="gifs-input-col">
+                  <select
+                    class="form-control form-select gifs-selector"
+                    aria-label="GIF selector"
+                    data-num="23"
+                    id="customGIF23"
+                    disabled
+                  >
+                    <option selected value="-1">Select GIF</option>
+                  </select>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <span>24</span>
+                </td>
+                <td class="name-input-col">
+                  <input
+                    type="text"
+                    class="form-control name-input"
+                    data-num="24"
+                    id="customName24"
+                    disabled
+                  />
+                </td>
+                <td class="time-input-col">
+                  <input
+                    type="number"
+                    class="form-control time-input"
+                    data-num="24"
+                    max="120"
+                    min="1"
+                    id="customTime24"
+                    disabled
+                  />
+                </td>
+                <td class="gifs-input-col">
+                  <select
+                    class="form-control form-select gifs-selector"
+                    aria-label="GIF selector"
+                    data-num="24"
+                    id="customGIF24"
+                    disabled
+                  >
+                    <option selected value="-1">Select GIF</option>
+                  </select>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <span>25</span>
+                </td>
+                <td class="name-input-col">
+                  <input
+                    type="text"
+                    class="form-control name-input"
+                    data-num="25"
+                    id="customName25"
+                    disabled
+                  />
+                </td>
+                <td class="time-input-col">
+                  <input
+                    type="number"
+                    class="form-control time-input"
+                    data-num="25"
+                    max="120"
+                    min="1"
+                    id="customTime25"
+                    disabled
+                  />
+                </td>
+                <td class="gifs-input-col">
+                  <select
+                    class="form-control form-select gifs-selector"
+                    aria-label="GIF selector"
+                    data-num="25"
+                    id="customGIF25"
+                    disabled
+                  >
+                    <option selected value="-1">Select GIF</option>
+                  </select>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </main>
+  </body>
+
+  <script
+    src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+    crossorigin="anonymous"
+  ></script>
+
+  <script
+    src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+    integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+    crossorigin="anonymous"
+  ></script>
+  <script
+    src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+    integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+    crossorigin="anonymous"
+  ></script>
+  <script
+    type="text/javascript"
+    src="https://unpkg.com/@reactivex/rxjs@6.5.2/dist/global/rxjs.umd.js"
+  ></script>
+
+  <script
+    type="text/javascript"
+    src="./assets/images/gifs/training.js"
+  ></script>
+  <script
+    type="text/javascript"
+    src="./assets/images/gifs/traveling.js"
+  ></script>
+  <script type="text/javascript" src="./assets/js/timer.js"></script>
+  <script type="text/javascript" src="./assets/js/default.js"></script>
+</html>

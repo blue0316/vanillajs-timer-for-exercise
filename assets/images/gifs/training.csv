@@ -1,0 +1,1122 @@
+#TYPE System.IO.FileInfo
+"PSPath","PSParentPath","PSChildName","PSDrive","PSProvider","PSIsContainer","Mode","VersionInfo","BaseName","Target","LinkType","Name","Length","DirectoryName","Directory","IsReadOnly","Exists","FullName","Extension","CreationTime","CreationTimeUtc","LastAccessTime","LastAccessTimeUtc","LastWriteTime","LastWriteTimeUtc","Attributes"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\alternating_superman.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","alternating_superman.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\alternating_superman.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","alternating_superman","System.Collections.Generic.List`1[System.String]",,"alternating_superman.gif","618539","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\alternating_superman.gif",".gif","1/25/2023 9:57:50 PM","1/25/2023 8:57:50 PM","1/25/2023 10:03:00 PM","1/25/2023 9:03:00 PM","1/22/2020 1:34:58 AM","1/22/2020 12:34:58 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\ball_hamstring_curl.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","ball_hamstring_curl.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\ball_hamstring_curl.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","ball_hamstring_curl","System.Collections.Generic.List`1[System.String]",,"ball_hamstring_curl.gif","319373","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\ball_hamstring_curl.gif",".gif","1/25/2023 9:57:50 PM","1/25/2023 8:57:50 PM","1/25/2023 10:02:55 PM","1/25/2023 9:02:55 PM","1/22/2020 1:11:34 AM","1/22/2020 12:11:34 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\barbell_calf_raise.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","barbell_calf_raise.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\barbell_calf_raise.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","barbell_calf_raise","System.Collections.Generic.List`1[System.String]",,"barbell_calf_raise.gif","76219","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\barbell_calf_raise.gif",".gif","1/25/2023 9:57:50 PM","1/25/2023 8:57:50 PM","1/25/2023 10:02:55 PM","1/25/2023 9:02:55 PM","1/22/2020 12:53:02 AM","1/21/2020 11:53:02 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\bb_barbell_upright_row.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","bb_barbell_upright_row.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\bb_barbell_upright_row.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","bb_barbell_upright_row","System.Collections.Generic.List`1[System.String]",,"bb_barbell_upright_row.gif","51844","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\bb_barbell_upright_row.gif",".gif","1/25/2023 9:57:50 PM","1/25/2023 8:57:50 PM","1/25/2023 10:02:55 PM","1/25/2023 9:02:55 PM","3/2/2020 11:53:02 AM","3/2/2020 10:53:02 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\bench_db_rows_lawnmowers.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","bench_db_rows_lawnmowers.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\bench_db_rows_lawnmowers.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","bench_db_rows_lawnmowers","System.Collections.Generic.List`1[System.String]",,"bench_db_rows_lawnmowers.gif","4981387","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\bench_db_rows_lawnmowers.gif",".gif","1/25/2023 9:57:50 PM","1/25/2023 8:57:50 PM","1/25/2023 10:02:55 PM","1/25/2023 9:02:55 PM","1/22/2020 1:17:58 AM","1/22/2020 12:17:58 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\bench_fly.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","bench_fly.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\bench_fly.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","bench_fly","System.Collections.Generic.List`1[System.String]",,"bench_fly.gif","104503","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\bench_fly.gif",".gif","1/25/2023 9:57:50 PM","1/25/2023 8:57:50 PM","1/25/2023 10:02:55 PM","1/25/2023 9:02:55 PM","1/22/2020 12:40:24 AM","1/21/2020 11:40:24 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\bench_hip_raises.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","bench_hip_raises.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\bench_hip_raises.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","bench_hip_raises","System.Collections.Generic.List`1[System.String]",,"bench_hip_raises.gif","2398395","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\bench_hip_raises.gif",".gif","1/25/2023 9:57:50 PM","1/25/2023 8:57:50 PM","1/25/2023 10:02:55 PM","1/25/2023 9:02:55 PM","1/22/2020 1:04:44 AM","1/22/2020 12:04:44 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\bench_press.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","bench_press.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\bench_press.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","bench_press","System.Collections.Generic.List`1[System.String]",,"bench_press.gif","2805818","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\bench_press.gif",".gif","1/25/2023 9:57:50 PM","1/25/2023 8:57:50 PM","1/25/2023 10:02:55 PM","1/25/2023 9:02:55 PM","12/9/2019 4:50:58 PM","12/9/2019 3:50:58 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\bent_barbell_rows.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","bent_barbell_rows.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\bent_barbell_rows.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","bent_barbell_rows","System.Collections.Generic.List`1[System.String]",,"bent_barbell_rows.gif","3595421","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\bent_barbell_rows.gif",".gif","1/25/2023 9:57:50 PM","1/25/2023 8:57:50 PM","1/25/2023 10:02:55 PM","1/25/2023 9:02:55 PM","1/22/2020 12:59:56 AM","1/21/2020 11:59:56 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\bicycle_kicks.jpeg","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","bicycle_kicks.jpeg","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\bicycle_kicks.jpeg
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","bicycle_kicks","System.Collections.Generic.List`1[System.String]",,"bicycle_kicks.jpeg","5099","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\bicycle_kicks.jpeg",".jpeg","1/25/2023 9:57:50 PM","1/25/2023 8:57:50 PM","1/25/2023 10:02:55 PM","1/25/2023 9:02:55 PM","1/22/2020 1:42:20 AM","1/22/2020 12:42:20 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\cable_alternating_chest_press.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","cable_alternating_chest_press.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\cable_alternating_chest_press.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","cable_alternating_chest_press","System.Collections.Generic.List`1[System.String]",,"cable_alternating_chest_press.gif","4192412","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\cable_alternating_chest_press.gif",".gif","1/25/2023 9:57:50 PM","1/25/2023 8:57:50 PM","1/25/2023 10:02:55 PM","1/25/2023 9:02:55 PM","3/2/2020 11:57:00 AM","3/2/2020 10:57:00 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\cable_overhead_bicep_curl.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","cable_overhead_bicep_curl.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\cable_overhead_bicep_curl.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","cable_overhead_bicep_curl","System.Collections.Generic.List`1[System.String]",,"cable_overhead_bicep_curl.gif","109964","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\cable_overhead_bicep_curl.gif",".gif","1/25/2023 9:57:50 PM","1/25/2023 8:57:50 PM","1/25/2023 10:02:55 PM","1/25/2023 9:02:55 PM","3/3/2020 1:26:30 PM","3/3/2020 12:26:30 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\CABLE_OVERHEAD_TRICEPT.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","CABLE_OVERHEAD_TRICEPT.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\CABLE_OVERHEAD_TRICEPT.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","CABLE_OVERHEAD_TRICEPT","System.Collections.Generic.List`1[System.String]",,"CABLE_OVERHEAD_TRICEPT.gif","392152","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\CABLE_OVERHEAD_TRICEPT.gif",".gif","1/25/2023 9:57:50 PM","1/25/2023 8:57:50 PM","1/25/2023 10:02:55 PM","1/25/2023 9:02:55 PM","3/2/2020 12:14:46 PM","3/2/2020 11:14:46 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\cable_pull_down.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","cable_pull_down.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\cable_pull_down.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","cable_pull_down","System.Collections.Generic.List`1[System.String]",,"cable_pull_down.gif","887787","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\cable_pull_down.gif",".gif","1/25/2023 9:57:50 PM","1/25/2023 8:57:50 PM","1/25/2023 10:02:55 PM","1/25/2023 9:02:55 PM","1/22/2020 1:33:42 AM","1/22/2020 12:33:42 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\chin_ups.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","chin_ups.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\chin_ups.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","chin_ups","System.Collections.Generic.List`1[System.String]",,"chin_ups.gif","466875","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\chin_ups.gif",".gif","1/25/2023 9:57:50 PM","1/25/2023 8:57:50 PM","1/25/2023 10:02:55 PM","1/25/2023 9:02:55 PM","3/3/2020 1:17:16 PM","3/3/2020 12:17:16 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\close_grip_bench.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","close_grip_bench.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\close_grip_bench.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","close_grip_bench","System.Collections.Generic.List`1[System.String]",,"close_grip_bench.gif","873964","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\close_grip_bench.gif",".gif","1/25/2023 9:57:50 PM","1/25/2023 8:57:50 PM","1/25/2023 10:02:55 PM","1/25/2023 9:02:55 PM","1/22/2020 12:48:12 AM","1/21/2020 11:48:12 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\curl_bar_curls.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","curl_bar_curls.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\curl_bar_curls.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","curl_bar_curls","System.Collections.Generic.List`1[System.String]",,"curl_bar_curls.gif","1597118","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\curl_bar_curls.gif",".gif","1/25/2023 9:57:50 PM","1/25/2023 8:57:50 PM","1/25/2023 10:03:22 PM","1/25/2023 9:03:22 PM","1/22/2020 12:55:44 AM","1/21/2020 11:55:44 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\db_bench.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","db_bench.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\db_bench.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","db_bench","System.Collections.Generic.List`1[System.String]",,"db_bench.gif","527275","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\db_bench.gif",".gif","1/25/2023 9:57:50 PM","1/25/2023 8:57:50 PM","1/25/2023 10:02:55 PM","1/25/2023 9:02:55 PM","1/22/2020 12:36:24 AM","1/21/2020 11:36:24 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\db_bent_rows.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","db_bent_rows.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\db_bent_rows.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","db_bent_rows","System.Collections.Generic.List`1[System.String]",,"db_bent_rows.gif","2164939","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\db_bent_rows.gif",".gif","1/25/2023 9:57:50 PM","1/25/2023 8:57:50 PM","1/25/2023 10:02:55 PM","1/25/2023 9:02:55 PM","1/22/2020 1:15:10 AM","1/22/2020 12:15:10 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\db_calf_raises.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","db_calf_raises.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\db_calf_raises.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","db_calf_raises","System.Collections.Generic.List`1[System.String]",,"db_calf_raises.gif","1262728","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\db_calf_raises.gif",".gif","1/25/2023 9:57:50 PM","1/25/2023 8:57:50 PM","1/25/2023 10:02:55 PM","1/25/2023 9:02:55 PM","1/22/2020 12:52:38 AM","1/21/2020 11:52:38 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\db_curls.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","db_curls.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\db_curls.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","db_curls","System.Collections.Generic.List`1[System.String]",,"db_curls.gif","1163463","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\db_curls.gif",".gif","1/25/2023 9:57:50 PM","1/25/2023 8:57:50 PM","1/25/2023 10:02:55 PM","1/25/2023 9:02:55 PM","1/22/2020 12:54:00 AM","1/21/2020 11:54:00 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\DB_DUMBBELL_FRENCH_PRESS.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","DB_DUMBBELL_FRENCH_PRESS.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\DB_DUMBBELL_FRENCH_PRESS.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","DB_DUMBBELL_FRENCH_PRESS","System.Collections.Generic.List`1[System.String]",,"DB_DUMBBELL_FRENCH_PRESS.gif","5644602","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\DB_DUMBBELL_FRENCH_PRESS.gif",".gif","1/25/2023 9:57:50 PM","1/25/2023 8:57:50 PM","1/25/2023 10:02:55 PM","1/25/2023 9:02:55 PM","3/2/2020 12:06:10 PM","3/2/2020 11:06:10 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\db_incline.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","db_incline.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\db_incline.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","db_incline","System.Collections.Generic.List`1[System.String]",,"db_incline.gif","927985","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\db_incline.gif",".gif","1/25/2023 9:57:50 PM","1/25/2023 8:57:50 PM","1/25/2023 10:02:55 PM","1/25/2023 9:02:55 PM","1/22/2020 12:36:14 AM","1/21/2020 11:36:14 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\db_incline_fly.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","db_incline_fly.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\db_incline_fly.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","db_incline_fly","System.Collections.Generic.List`1[System.String]",,"db_incline_fly.gif","1531114","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\db_incline_fly.gif",".gif","1/25/2023 9:57:50 PM","1/25/2023 8:57:50 PM","1/25/2023 10:02:55 PM","1/25/2023 9:02:55 PM","1/22/2020 12:37:00 AM","1/21/2020 11:37:00 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\db_military_press.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","db_military_press.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\db_military_press.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","db_military_press","System.Collections.Generic.List`1[System.String]",,"db_military_press.gif","2283048","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\db_military_press.gif",".gif","1/25/2023 9:57:50 PM","1/25/2023 8:57:50 PM","1/25/2023 10:02:55 PM","1/25/2023 9:02:55 PM","1/22/2020 12:41:22 AM","1/21/2020 11:41:22 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\DB_shrugs.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","DB_shrugs.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\DB_shrugs.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","DB_shrugs","System.Collections.Generic.List`1[System.String]",,"DB_shrugs.gif","6084522","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\DB_shrugs.gif",".gif","1/25/2023 9:57:50 PM","1/25/2023 8:57:50 PM","1/25/2023 10:02:55 PM","1/25/2023 9:02:55 PM","1/22/2020 12:59:16 AM","1/21/2020 11:59:16 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\db_snatch.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","db_snatch.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\db_snatch.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","db_snatch","System.Collections.Generic.List`1[System.String]",,"db_snatch.gif","981631","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\db_snatch.gif",".gif","1/25/2023 9:57:50 PM","1/25/2023 8:57:50 PM","1/25/2023 10:02:55 PM","1/25/2023 9:02:55 PM","3/3/2020 1:24:30 PM","3/3/2020 12:24:30 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\dead_lift.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","dead_lift.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\dead_lift.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","dead_lift","System.Collections.Generic.List`1[System.String]",,"dead_lift.gif","95264","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\dead_lift.gif",".gif","1/25/2023 9:57:50 PM","1/25/2023 8:57:50 PM","1/25/2023 10:02:55 PM","1/25/2023 9:02:55 PM","1/22/2020 1:06:14 AM","1/22/2020 12:06:14 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\delt_front_raise.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","delt_front_raise.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\delt_front_raise.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","delt_front_raise","System.Collections.Generic.List`1[System.String]",,"delt_front_raise.gif","1040997","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\delt_front_raise.gif",".gif","1/25/2023 9:57:50 PM","1/25/2023 8:57:50 PM","1/25/2023 10:02:55 PM","1/25/2023 9:02:55 PM","1/22/2020 12:44:28 AM","1/21/2020 11:44:28 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\delt_rear.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","delt_rear.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\delt_rear.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","delt_rear","System.Collections.Generic.List`1[System.String]",,"delt_rear.gif","413480","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\delt_rear.gif",".gif","1/25/2023 9:57:50 PM","1/25/2023 8:57:50 PM","1/25/2023 10:02:55 PM","1/25/2023 9:02:55 PM","1/22/2020 12:35:14 AM","1/21/2020 11:35:14 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\delt_side_raise.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","delt_side_raise.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\delt_side_raise.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","delt_side_raise","System.Collections.Generic.List`1[System.String]",,"delt_side_raise.gif","738031","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\delt_side_raise.gif",".gif","1/25/2023 9:57:50 PM","1/25/2023 8:57:50 PM","1/25/2023 10:02:55 PM","1/25/2023 9:02:55 PM","1/22/2020 12:42:10 AM","1/21/2020 11:42:10 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\diamond_lock_out_push_up.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","diamond_lock_out_push_up.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\diamond_lock_out_push_up.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","diamond_lock_out_push_up","System.Collections.Generic.List`1[System.String]",,"diamond_lock_out_push_up.gif","298261","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\diamond_lock_out_push_up.gif",".gif","1/25/2023 9:57:50 PM","1/25/2023 8:57:50 PM","1/25/2023 9:58:01 PM","1/25/2023 8:58:01 PM","3/2/2020 12:08:22 PM","3/2/2020 11:08:22 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\dumbbell_db_push_press.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","dumbbell_db_push_press.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\dumbbell_db_push_press.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","dumbbell_db_push_press","System.Collections.Generic.List`1[System.String]",,"dumbbell_db_push_press.gif","2712057","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\dumbbell_db_push_press.gif",".gif","1/25/2023 9:57:50 PM","1/25/2023 8:57:50 PM","1/25/2023 9:58:01 PM","1/25/2023 8:58:01 PM","3/2/2020 11:58:30 AM","3/2/2020 10:58:30 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\dumbbell_db_uprightrow.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","dumbbell_db_uprightrow.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\dumbbell_db_uprightrow.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","dumbbell_db_uprightrow","System.Collections.Generic.List`1[System.String]",,"dumbbell_db_uprightrow.gif","1056671","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\dumbbell_db_uprightrow.gif",".gif","1/25/2023 9:57:50 PM","1/25/2023 8:57:50 PM","1/25/2023 9:58:01 PM","1/25/2023 8:58:01 PM","3/2/2020 11:51:56 AM","3/2/2020 10:51:56 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\fire_hydrant_pissers.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","fire_hydrant_pissers.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\fire_hydrant_pissers.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","fire_hydrant_pissers","System.Collections.Generic.List`1[System.String]",,"fire_hydrant_pissers.gif","4175642","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\fire_hydrant_pissers.gif",".gif","1/25/2023 9:57:50 PM","1/25/2023 8:57:50 PM","1/25/2023 9:58:01 PM","1/25/2023 8:58:01 PM","1/22/2020 1:43:52 AM","1/22/2020 12:43:52 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\front_squat.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","front_squat.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\front_squat.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","front_squat","System.Collections.Generic.List`1[System.String]",,"front_squat.gif","857603","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\front_squat.gif",".gif","1/25/2023 9:57:50 PM","1/25/2023 8:57:50 PM","1/25/2023 9:58:01 PM","1/25/2023 8:58:01 PM","1/22/2020 12:34:34 AM","1/21/2020 11:34:34 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\hammer_curls.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","hammer_curls.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\hammer_curls.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","hammer_curls","System.Collections.Generic.List`1[System.String]",,"hammer_curls.gif","269572","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\hammer_curls.gif",".gif","1/25/2023 9:57:50 PM","1/25/2023 8:57:50 PM","1/25/2023 9:58:01 PM","1/25/2023 8:58:01 PM","1/22/2020 12:54:18 AM","1/21/2020 11:54:18 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\hang_clean.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","hang_clean.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\hang_clean.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","hang_clean","System.Collections.Generic.List`1[System.String]",,"hang_clean.gif","334109","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\hang_clean.gif",".gif","1/25/2023 9:57:50 PM","1/25/2023 8:57:50 PM","1/25/2023 9:58:01 PM","1/25/2023 8:58:01 PM","1/22/2020 12:32:26 AM","1/21/2020 11:32:26 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\ice_skaters.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","ice_skaters.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\ice_skaters.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","ice_skaters","System.Collections.Generic.List`1[System.String]",,"ice_skaters.gif","370919","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\ice_skaters.gif",".gif","1/25/2023 9:57:50 PM","1/25/2023 8:57:50 PM","1/25/2023 9:58:01 PM","1/25/2023 8:58:01 PM","1/22/2020 1:43:02 AM","1/22/2020 12:43:02 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\incline_bench.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","incline_bench.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\incline_bench.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","incline_bench","System.Collections.Generic.List`1[System.String]",,"incline_bench.gif","1980942","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\incline_bench.gif",".gif","1/25/2023 9:57:50 PM","1/25/2023 8:57:50 PM","1/25/2023 9:58:01 PM","1/25/2023 8:58:01 PM","1/22/2020 1:23:14 AM","1/22/2020 12:23:14 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\incline_db_press.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","incline_db_press.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\incline_db_press.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","incline_db_press","System.Collections.Generic.List`1[System.String]",,"incline_db_press.gif","4107997","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\incline_db_press.gif",".gif","1/25/2023 9:57:50 PM","1/25/2023 8:57:50 PM","1/25/2023 9:58:01 PM","1/25/2023 8:58:01 PM","1/22/2020 1:21:22 AM","1/22/2020 12:21:22 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\jumping_lunges.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","jumping_lunges.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\jumping_lunges.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","jumping_lunges","System.Collections.Generic.List`1[System.String]",,"jumping_lunges.gif","613854","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\jumping_lunges.gif",".gif","1/25/2023 9:57:50 PM","1/25/2023 8:57:50 PM","1/25/2023 9:58:01 PM","1/25/2023 8:58:01 PM","1/22/2020 1:07:26 AM","1/22/2020 12:07:26 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\leg_extension.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","leg_extension.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\leg_extension.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","leg_extension","System.Collections.Generic.List`1[System.String]",,"leg_extension.gif","3621490","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\leg_extension.gif",".gif","1/25/2023 9:57:50 PM","1/25/2023 8:57:50 PM","1/25/2023 9:58:01 PM","1/25/2023 8:58:01 PM","1/22/2020 1:10:30 AM","1/22/2020 12:10:30 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\leg_press.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","leg_press.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\leg_press.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","leg_press","System.Collections.Generic.List`1[System.String]",,"leg_press.gif","18627","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\leg_press.gif",".gif","1/25/2023 9:57:51 PM","1/25/2023 8:57:51 PM","1/25/2023 9:58:01 PM","1/25/2023 8:58:01 PM","1/22/2020 1:49:18 AM","1/22/2020 12:49:18 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\leg_raises.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","leg_raises.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\leg_raises.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","leg_raises","System.Collections.Generic.List`1[System.String]",,"leg_raises.gif","3043639","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\leg_raises.gif",".gif","1/25/2023 9:57:51 PM","1/25/2023 8:57:51 PM","1/25/2023 9:58:01 PM","1/25/2023 8:58:01 PM","1/22/2020 1:10:48 AM","1/22/2020 12:10:48 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\lunges.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","lunges.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\lunges.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","lunges","System.Collections.Generic.List`1[System.String]",,"lunges.gif","2090807","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\lunges.gif",".gif","1/25/2023 9:57:51 PM","1/25/2023 8:57:51 PM","1/25/2023 9:58:01 PM","1/25/2023 8:58:01 PM","1/22/2020 1:07:10 AM","1/22/2020 12:07:10 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\MyFileList.csv","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","MyFileList.csv","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\MyFileList.csv
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","MyFileList","System.Collections.Generic.List`1[System.String]",,"MyFileList.csv","0","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\MyFileList.csv",".csv","1/25/2023 10:09:27 PM","1/25/2023 9:09:27 PM","1/25/2023 10:09:27 PM","1/25/2023 9:09:27 PM","1/25/2023 10:09:27 PM","1/25/2023 9:09:27 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\overhead_squat.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","overhead_squat.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\overhead_squat.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","overhead_squat","System.Collections.Generic.List`1[System.String]",,"overhead_squat.gif","181774","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\overhead_squat.gif",".gif","1/25/2023 9:57:51 PM","1/25/2023 8:57:51 PM","1/25/2023 9:58:01 PM","1/25/2023 8:58:01 PM","1/22/2020 1:40:52 AM","1/22/2020 12:40:52 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\partner_hamstring_curl.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","partner_hamstring_curl.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\partner_hamstring_curl.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","partner_hamstring_curl","System.Collections.Generic.List`1[System.String]",,"partner_hamstring_curl.gif","615635","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\partner_hamstring_curl.gif",".gif","1/25/2023 9:57:51 PM","1/25/2023 8:57:51 PM","1/25/2023 9:58:01 PM","1/25/2023 8:58:01 PM","1/22/2020 1:14:20 AM","1/22/2020 12:14:20 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\power_clean.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","power_clean.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\power_clean.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","power_clean","System.Collections.Generic.List`1[System.String]",,"power_clean.gif","980442","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\power_clean.gif",".gif","1/25/2023 9:57:51 PM","1/25/2023 8:57:51 PM","1/25/2023 9:58:01 PM","1/25/2023 8:58:01 PM","1/22/2020 12:32:58 AM","1/21/2020 11:32:58 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\preacher_curl.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","preacher_curl.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\preacher_curl.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","preacher_curl","System.Collections.Generic.List`1[System.String]",,"preacher_curl.gif","363677","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\preacher_curl.gif",".gif","1/25/2023 9:57:51 PM","1/25/2023 8:57:51 PM","1/25/2023 9:58:23 PM","1/25/2023 8:58:23 PM","1/22/2020 12:57:24 AM","1/21/2020 11:57:24 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\prone_hamstring_curls.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","prone_hamstring_curls.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\prone_hamstring_curls.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","prone_hamstring_curls","System.Collections.Generic.List`1[System.String]",,"prone_hamstring_curls.gif","4784094","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\prone_hamstring_curls.gif",".gif","1/25/2023 9:57:51 PM","1/25/2023 8:57:51 PM","1/25/2023 9:58:22 PM","1/25/2023 8:58:22 PM","1/22/2020 1:11:58 AM","1/22/2020 12:11:58 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\pull_over.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","pull_over.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\pull_over.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","pull_over","System.Collections.Generic.List`1[System.String]",,"pull_over.gif","1363372","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\pull_over.gif",".gif","1/25/2023 9:57:51 PM","1/25/2023 8:57:51 PM","1/25/2023 9:58:09 PM","1/25/2023 8:58:09 PM","3/2/2020 12:04:18 PM","3/2/2020 11:04:18 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\PULL_UPS_WIDE_GRIP.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","PULL_UPS_WIDE_GRIP.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\PULL_UPS_WIDE_GRIP.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","PULL_UPS_WIDE_GRIP","System.Collections.Generic.List`1[System.String]",,"PULL_UPS_WIDE_GRIP.gif","88721","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\PULL_UPS_WIDE_GRIP.gif",".gif","1/25/2023 9:57:51 PM","1/25/2023 8:57:51 PM","1/25/2023 9:58:09 PM","1/25/2023 8:58:09 PM","1/27/2020 1:49:52 PM","1/27/2020 12:49:52 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\reverse_curls.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","reverse_curls.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\reverse_curls.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","reverse_curls","System.Collections.Generic.List`1[System.String]",,"reverse_curls.gif","738924","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\reverse_curls.gif",".gif","1/25/2023 9:57:51 PM","1/25/2023 8:57:51 PM","1/25/2023 9:58:09 PM","1/25/2023 8:58:09 PM","1/22/2020 12:54:30 AM","1/21/2020 11:54:30 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\reverse_lunges.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","reverse_lunges.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\reverse_lunges.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","reverse_lunges","System.Collections.Generic.List`1[System.String]",,"reverse_lunges.gif","333405","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\reverse_lunges.gif",".gif","1/25/2023 9:57:51 PM","1/25/2023 8:57:51 PM","1/25/2023 9:58:09 PM","1/25/2023 8:58:09 PM","1/22/2020 1:08:50 AM","1/22/2020 12:08:50 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\russian_dead_lift_rdl.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","russian_dead_lift_rdl.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\russian_dead_lift_rdl.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","russian_dead_lift_rdl","System.Collections.Generic.List`1[System.String]",,"russian_dead_lift_rdl.gif","4560765","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\russian_dead_lift_rdl.gif",".gif","1/25/2023 9:57:51 PM","1/25/2023 8:57:51 PM","1/25/2023 9:58:09 PM","1/25/2023 8:58:09 PM","1/22/2020 1:04:28 AM","1/22/2020 12:04:28 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\seated_arnold_press.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","seated_arnold_press.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\seated_arnold_press.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","seated_arnold_press","System.Collections.Generic.List`1[System.String]",,"seated_arnold_press.gif","4933355","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\seated_arnold_press.gif",".gif","1/25/2023 9:57:51 PM","1/25/2023 8:57:51 PM","1/25/2023 9:58:09 PM","1/25/2023 8:58:09 PM","1/22/2020 1:27:56 AM","1/22/2020 12:27:56 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\seated_bent_over_concentration_curls.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","seated_bent_over_concentration_curls.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\seated_bent_over_concentration_curls.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","seated_bent_over_concentration_curls","System.Collections.Generic.List`1[System.String]",,"seated_bent_over_concentration_curls.gif","1077305","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\seated_bent_over_concentration_curls.gif",".gif","1/25/2023 9:57:51 PM","1/25/2023 8:57:51 PM","1/25/2023 9:58:09 PM","1/25/2023 8:58:09 PM","3/3/2020 1:13:34 PM","3/3/2020 12:13:34 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\seated_bent_over_concentration_curls_db.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","seated_bent_over_concentration_curls_db.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\seated_bent_over_concentration_curls_db.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","seated_bent_over_concentration_curls_db","System.Collections.Generic.List`1[System.String]",,"seated_bent_over_concentration_curls_db.gif","1077305","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\seated_bent_over_concentration_curls_db.gif",".gif","1/25/2023 9:57:51 PM","1/25/2023 8:57:51 PM","1/25/2023 9:58:09 PM","1/25/2023 8:58:09 PM","3/3/2020 1:14:14 PM","3/3/2020 12:14:14 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\seated_hamstring_curl.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","seated_hamstring_curl.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\seated_hamstring_curl.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","seated_hamstring_curl","System.Collections.Generic.List`1[System.String]",,"seated_hamstring_curl.gif","194226","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\seated_hamstring_curl.gif",".gif","1/25/2023 9:57:51 PM","1/25/2023 8:57:51 PM","1/25/2023 9:58:09 PM","1/25/2023 8:58:09 PM","1/22/2020 1:12:54 AM","1/22/2020 12:12:54 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\seated_military_press.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","seated_military_press.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\seated_military_press.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","seated_military_press","System.Collections.Generic.List`1[System.String]",,"seated_military_press.gif","1209634","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\seated_military_press.gif",".gif","1/25/2023 9:57:51 PM","1/25/2023 8:57:51 PM","1/25/2023 9:58:12 PM","1/25/2023 8:58:12 PM","1/22/2020 1:27:10 AM","1/22/2020 12:27:10 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\shoulder_bent_overhead_rotation.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","shoulder_bent_overhead_rotation.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\shoulder_bent_overhead_rotation.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","shoulder_bent_overhead_rotation","System.Collections.Generic.List`1[System.String]",,"shoulder_bent_overhead_rotation.gif","58117","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\shoulder_bent_overhead_rotation.gif",".gif","1/25/2023 9:57:51 PM","1/25/2023 8:57:51 PM","1/25/2023 9:58:12 PM","1/25/2023 8:58:12 PM","1/22/2020 1:31:28 AM","1/22/2020 12:31:28 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\side_lunges.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","side_lunges.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\side_lunges.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","side_lunges","System.Collections.Generic.List`1[System.String]",,"side_lunges.gif","89183","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\side_lunges.gif",".gif","1/25/2023 9:57:51 PM","1/25/2023 8:57:51 PM","1/25/2023 9:58:12 PM","1/25/2023 8:58:12 PM","1/22/2020 1:37:40 AM","1/22/2020 12:37:40 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\SINGLE_ARM_INCLINE_BENCH.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","SINGLE_ARM_INCLINE_BENCH.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\SINGLE_ARM_INCLINE_BENCH.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","SINGLE_ARM_INCLINE_BENCH","System.Collections.Generic.List`1[System.String]",,"SINGLE_ARM_INCLINE_BENCH.gif","384114","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\SINGLE_ARM_INCLINE_BENCH.gif",".gif","1/25/2023 9:57:51 PM","1/25/2023 8:57:51 PM","1/25/2023 9:58:12 PM","1/25/2023 8:58:12 PM","2/3/2020 12:11:36 PM","2/3/2020 11:11:36 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\single_arm_overhead_squat.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","single_arm_overhead_squat.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\single_arm_overhead_squat.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","single_arm_overhead_squat","System.Collections.Generic.List`1[System.String]",,"single_arm_overhead_squat.gif","94146","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\single_arm_overhead_squat.gif",".gif","1/25/2023 9:57:51 PM","1/25/2023 8:57:51 PM","1/25/2023 9:58:12 PM","1/25/2023 8:58:12 PM","1/22/2020 1:40:18 AM","1/22/2020 12:40:18 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\single_arm_preacher_curl.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","single_arm_preacher_curl.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\single_arm_preacher_curl.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","single_arm_preacher_curl","System.Collections.Generic.List`1[System.String]",,"single_arm_preacher_curl.gif","3964448","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\single_arm_preacher_curl.gif",".gif","1/25/2023 9:57:51 PM","1/25/2023 8:57:51 PM","1/25/2023 9:58:12 PM","1/25/2023 8:58:12 PM","1/22/2020 12:55:12 AM","1/21/2020 11:55:12 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\single_arm_pull_down.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","single_arm_pull_down.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\single_arm_pull_down.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","single_arm_pull_down","System.Collections.Generic.List`1[System.String]",,"single_arm_pull_down.gif","4531444","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\single_arm_pull_down.gif",".gif","1/25/2023 9:57:51 PM","1/25/2023 8:57:51 PM","1/25/2023 9:58:12 PM","1/25/2023 8:58:12 PM","3/3/2020 1:22:48 PM","3/3/2020 12:22:48 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\single_lege_press.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","single_lege_press.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\single_lege_press.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","single_lege_press","System.Collections.Generic.List`1[System.String]",,"single_lege_press.gif","306276","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\single_lege_press.gif",".gif","1/25/2023 9:57:51 PM","1/25/2023 8:57:51 PM","1/25/2023 9:58:12 PM","1/25/2023 8:58:12 PM","1/22/2020 1:47:24 AM","1/22/2020 12:47:24 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\SINGLE_LEG_SQUAT_DB.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","SINGLE_LEG_SQUAT_DB.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\SINGLE_LEG_SQUAT_DB.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","SINGLE_LEG_SQUAT_DB","System.Collections.Generic.List`1[System.String]",,"SINGLE_LEG_SQUAT_DB.gif","1337927","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\SINGLE_LEG_SQUAT_DB.gif",".gif","1/25/2023 9:57:51 PM","1/25/2023 8:57:51 PM","1/25/2023 9:58:12 PM","1/25/2023 8:58:12 PM","2/3/2020 12:04:22 PM","2/3/2020 11:04:22 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\skull_crushers.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","skull_crushers.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\skull_crushers.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","skull_crushers","System.Collections.Generic.List`1[System.String]",,"skull_crushers.gif","761660","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\skull_crushers.gif",".gif","1/25/2023 9:57:51 PM","1/25/2023 8:57:51 PM","1/25/2023 9:58:12 PM","1/25/2023 8:58:12 PM","1/22/2020 12:48:46 AM","1/21/2020 11:48:46 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\squat.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","squat.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\squat.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","squat","System.Collections.Generic.List`1[System.String]",,"squat.gif","272402","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\squat.gif",".gif","1/25/2023 9:57:51 PM","1/25/2023 8:57:51 PM","1/25/2023 9:58:12 PM","1/25/2023 8:58:12 PM","1/22/2020 12:33:46 AM","1/21/2020 11:33:46 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\standing_arnold_press.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","standing_arnold_press.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\standing_arnold_press.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","standing_arnold_press","System.Collections.Generic.List`1[System.String]",,"standing_arnold_press.gif","1525755","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\standing_arnold_press.gif",".gif","1/25/2023 9:57:51 PM","1/25/2023 8:57:51 PM","1/25/2023 9:58:19 PM","1/25/2023 8:58:19 PM","1/22/2020 12:42:56 AM","1/21/2020 11:42:56 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\standing_military_press.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","standing_military_press.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\standing_military_press.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","standing_military_press","System.Collections.Generic.List`1[System.String]",,"standing_military_press.gif","1204972","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\standing_military_press.gif",".gif","1/25/2023 9:57:51 PM","1/25/2023 8:57:51 PM","1/25/2023 9:58:19 PM","1/25/2023 8:58:19 PM","1/22/2020 12:41:36 AM","1/21/2020 11:41:36 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\supermans.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","supermans.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\supermans.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","supermans","System.Collections.Generic.List`1[System.String]",,"supermans.gif","1818030","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\supermans.gif",".gif","1/25/2023 9:57:51 PM","1/25/2023 8:57:51 PM","1/25/2023 9:58:21 PM","1/25/2023 8:58:21 PM","1/22/2020 1:35:16 AM","1/22/2020 12:35:16 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\superman_swims.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","superman_swims.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\superman_swims.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","superman_swims","System.Collections.Generic.List`1[System.String]",,"superman_swims.gif","852817","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\superman_swims.gif",".gif","1/25/2023 9:57:51 PM","1/25/2023 8:57:51 PM","1/25/2023 9:58:19 PM","1/25/2023 8:58:19 PM","1/22/2020 1:34:34 AM","1/22/2020 12:34:34 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\tricep_bench_dips.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","tricep_bench_dips.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\tricep_bench_dips.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","tricep_bench_dips","System.Collections.Generic.List`1[System.String]",,"tricep_bench_dips.gif","849334","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\tricep_bench_dips.gif",".gif","1/25/2023 9:57:51 PM","1/25/2023 8:57:51 PM","1/25/2023 9:58:28 PM","1/25/2023 8:58:28 PM","1/22/2020 12:48:32 AM","1/21/2020 11:48:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\tricep_kick_back.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","tricep_kick_back.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\tricep_kick_back.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","tricep_kick_back","System.Collections.Generic.List`1[System.String]",,"tricep_kick_back.gif","307337","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\tricep_kick_back.gif",".gif","1/25/2023 9:57:51 PM","1/25/2023 8:57:51 PM","1/25/2023 9:58:28 PM","1/25/2023 8:58:28 PM","1/22/2020 12:50:22 AM","1/21/2020 11:50:22 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\tricep_pull_down_rope.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","tricep_pull_down_rope.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\tricep_pull_down_rope.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","tricep_pull_down_rope","System.Collections.Generic.List`1[System.String]",,"tricep_pull_down_rope.gif","1415746","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\tricep_pull_down_rope.gif",".gif","1/25/2023 9:57:51 PM","1/25/2023 8:57:51 PM","1/25/2023 9:58:28 PM","1/25/2023 8:58:28 PM","1/22/2020 12:49:20 AM","1/21/2020 11:49:20 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training\Z_PRESS_SEATED_GROUND_MILITARY.gif","Microsoft.PowerShell.Core\FileSystem::D:\work\vanilla-timer-final\assets\images\gifs\training","Z_PRESS_SEATED_GROUND_MILITARY.gif","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\work\vanilla-timer-final\assets\images\gifs\training\Z_PRESS_SEATED_GROUND_MILITARY.gif
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","Z_PRESS_SEATED_GROUND_MILITARY","System.Collections.Generic.List`1[System.String]",,"Z_PRESS_SEATED_GROUND_MILITARY.gif","3750422","D:\work\vanilla-timer-final\assets\images\gifs\training","D:\work\vanilla-timer-final\assets\images\gifs\training","False","True","D:\work\vanilla-timer-final\assets\images\gifs\training\Z_PRESS_SEATED_GROUND_MILITARY.gif",".gif","1/25/2023 9:57:51 PM","1/25/2023 8:57:51 PM","1/25/2023 9:58:28 PM","1/25/2023 8:58:28 PM","3/2/2020 12:07:22 PM","3/2/2020 11:07:22 AM","Archive"
